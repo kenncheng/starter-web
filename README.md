@@ -16,3 +16,5 @@ Sample website with plenty of files for demos
 This is a simple web project
 
 ## How to Contribute
+
+Add here
